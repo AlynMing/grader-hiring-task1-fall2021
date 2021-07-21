@@ -36,4 +36,4 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/rH3NDXP.gif)
 
 
-<img src='![](https://i.imgur.com/x7rgFCn.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
