@@ -13,4 +13,4 @@ The following **required** functionality is completed:
 - [X] User can view the last 20 posts. (4pts)
 - [x] User can pull to refresh. (1pt)
 
-<img src='http://g.recordit.co/DgWaRM5E72.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/jSCm1TKbP6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
