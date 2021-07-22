@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/ykTvJEtnew.gif'>
+<img src='http://g.recordit.co/z9mepnyXkd.gif'>
 
 ## Notes:
 Longest part of the entire project was waiting on Xcode simulator to load. 
