@@ -21,5 +21,6 @@ The objective of this hiring task is to gauge your familiarity of the common fea
 ### Instructions:
 1. Each folder corresponds to the seven common features. Open each folder. 
 2. Each folder contains different submissions made by some of our students. Open each file you found inside the folder. 
-3. In the file you found inside the folder, look for files that shows the common feature. 
-4. 
+3. In the file you found inside the folder, look for files that shows the common feature. You may use the GIF Scruber Google chrome extension to help you with the GIF. 
+4. Note that not all files show the common feature. Select only those that shows the feature.
+5. 
