@@ -30,5 +30,5 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='GIF HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/0onlQzS3fj.gifE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
